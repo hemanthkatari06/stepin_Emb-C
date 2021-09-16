@@ -1,5 +1,5 @@
-#ifndef _ACTVITY2_H_
-#define _ACTVITY2_H_
+#ifndef _ACT2_H_
+#define _ACT2_H_
 #include <avr/io.h>
 /**
  * @brief A function to initialise the analog to digital converter
