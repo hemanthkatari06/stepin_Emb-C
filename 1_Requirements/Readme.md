@@ -25,3 +25,28 @@ Opportunities - It can be implemented by replacing heater by air conditioners an
 
 Threats - Not suitable for High temperature environment.
 
+
+# Detail requirements
+## High Level Requirements:
+
+| ID | Description | Status |
+| --- | --- | --- |
+| HR01 | User must be able to generate pin number | Implemented |
+| HR02 | User must be able to validate pin | Implemented |
+| HR03 | User must be able to view the banking options | Implemented |
+| HR04 | User must be able to access banking options| Implemented |
+| HR05 | User must be able to check balance| Implemented |
+| HR06 | User must be able to Deposit money| Implemented |
+| HR07 | User must be able to withdraw money| Implemented |
+
+##  Low level Requirements:
+
+| ID | Description | Status |
+| --- | --- | --- |
+| LR01 | User can access any banking option multiple times|Implemented |
+| LR02 | Verify wheater a trasaction is successful or not| Implemented |
+| LR03 | Display receipt of trasaction with req details | Future|
+| LR04 | Make ATM PIN secure | Future |
+| LR05 | Backup availability | Future |
+
+
