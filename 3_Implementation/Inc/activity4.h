@@ -26,7 +26,7 @@
  * 
  * @param ubrr_value 
  */
-void USART_Init(uint16_t ubrr_value);
+void USART(uint16_t ubrr_value);
 
 /**
  * @brief write to usart
@@ -34,14 +34,7 @@ void USART_Init(uint16_t ubrr_value);
  * @param data 
  */
 
-void USART_WriteChar(int data);
-
-
-
-
-
-
-
+void USART_Write(int data);
 
 
 #endif
