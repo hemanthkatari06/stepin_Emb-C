@@ -1,5 +1,5 @@
 #include <avr/io.h>
-#include "actvity2.h"
+#include "act2.h"
 
 /**
  * @brief A function to initialise the analog to digital converter
