@@ -1,5 +1,5 @@
-#ifndef _ACTVITY3_H_
-#define _ACTVITY3_H_
+#ifndef _ACT3_H_
+#define _ACT3_H_
 #define F_CPU 16000000UL
 #include <avr/io.h>
 #include <util/delay.h>
