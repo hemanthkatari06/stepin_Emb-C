@@ -5,7 +5,7 @@
  * @brief A function to initialise the analog to digital converter
  * 
  */
-void ADC_Init()
+void ADC()
 {
     ADMUX = (1<<REFS0);
     ADCSRA = (1<<ADEN)|(7<<ADPS0);
