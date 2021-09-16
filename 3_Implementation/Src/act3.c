@@ -1,7 +1,7 @@
 #define F_CPU 16000000UL
 #include <avr/io.h>
 #include <util/delay.h>
-#include "actvity3.h"
+#include "act3.h"
 void Modeoftimergenerator(void){
 
     SET_TIMER1A_FAST_PWM; //setting timer1 for PWM
