@@ -30,16 +30,21 @@ Threats - Not suitable for High temperature environment.
 
  
 Why
+
 It can monitoring our body temperature even when we are healthy and it can help to detect disease early and help us if it is okay to go to work or college or school.
 
 What
+
 Seat Monitoring System based on Temperature.
 
 When
+
 It can be used in only Low temperature.
 
 Where
+
 It can be used in Industries like Automobile.
 
 How
+
 It can be modified by changing the Temperature.
