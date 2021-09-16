@@ -6,6 +6,7 @@ BUILD_DIR = Build
 SRC = src/actvity1.c\
 src/actvity2.c\
 src/actvity3.c\
+src/actvity4.c\
 SeatHeatingApp.c
 
 # All header file paths
