@@ -7,7 +7,17 @@
 
 [![Compile-Linux](https://github.com/hemanthkatari06/stepin_Emb-C/actions/workflows/Compile.yml/badge.svg)](https://github.com/hemanthkatari06/stepin_Emb-C/actions/workflows/Compile.yml)
 
+CODE INSPECTOR TESTING
 
+![](https://www.code-inspector.com/project/28123/score/svg)
+
+![](https://www.code-inspector.com/project/28123/status/svg)
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+CODEACY TESTING
+
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/1bab9660f2224630afc3251f1896d6f2)](https://www.codacy.com/gh/hemanthkatari06/stepin_ATM-system-banking/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=hemanthkatari06/stepin_ATM-system-banking&amp;utm_campaign=Badge_Grade)
 
 
 
