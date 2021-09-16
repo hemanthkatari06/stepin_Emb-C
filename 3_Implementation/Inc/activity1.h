@@ -13,6 +13,6 @@
 #define LED_ON PORTB |=(1<<PB0)
 #define LED_OFF PORTB &=~(1<<PB0)
 
-void peripheral_init();
+void peripherals();
 
 #endif
