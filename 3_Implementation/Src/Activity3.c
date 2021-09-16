@@ -2,7 +2,7 @@
 #include <avr/io.h>
 #include <util/delay.h>
 #include "actvity3.h"
-void TimerwaveGenerationMode(void){
+void TimerWaveGenerationMode(void){
 
     SET_TIMER1A_FAST_PWM; //setting timer1 for PWM
     PRESCALE_TIMER_64; //8 prescalar
