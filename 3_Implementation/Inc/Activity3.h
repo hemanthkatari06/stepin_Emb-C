@@ -34,3 +34,4 @@ void TimerwaveGenerationMode(void);
 int outputfromPWM(uint16_t ADC_val);
 
 #endif
+
