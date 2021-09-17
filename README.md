@@ -26,6 +26,9 @@ Introduction
 
 Seat Monitoring System based on Temperature: Currently many people are looking for the Advanced Technologies.This system presents a Microcontroll(atmega328) based Seat measurement system to dectect and confirm the presence/absence of person on the seat. In this system the sensor will sense is the driver has been seated or not and if the driver seated then the temperature need to be set accordingly. Based on the controller it will set the temperature and it is capable of maintaining of heat in the vehicles seats. And whatever the heat is generated that point it will be displaying on displays like (Liquid crystal display (LCD),Light emitting diode (LED) backlit LCD, Thin film Transistors (TFT) LCD).
 
+In this, the controller aims at control the temperature in the car. Firstly, if a person is seated in a car then the Button sensor will be activated. If a person is not seated, then the Button sensor will not be activated. When the Button sensor is activated then automatically heater sensor will be activated. Then temperature sensor monitors the temperature and sends analog value to atmega328 microcontroller.
+
+
 Features
 
 1.It sense whether the person is existed or not.
